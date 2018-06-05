@@ -36,7 +36,7 @@ def y():
 
 window = Tk()
 window.title("EuroMillions Killa")
-window.geometry("242x242")
+window.geometry("242x272")
 
 GUIFrame1=Frame(window)
 GUIFrame1.grid(row=3, column=0, sticky=W)
